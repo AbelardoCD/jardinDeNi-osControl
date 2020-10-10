@@ -1,0 +1,41 @@
+
+ancho5{
+    width :5%;
+} 
+.ancho15{
+    width :15%;
+} 
+.ancho10{
+    width :10%;
+} 
+
+.separacion{
+    margin-top: 30px;
+}
+
+.doble-separacion{
+    margin-top: 60px;
+}
+
+.barra-verde{
+    width: 100%; 
+    background-color: #03AD55;
+    height: 20px;
+}
+
+.wform-control{
+
+}
+
+.label_dato{
+    width: 100px;
+}
+.error{
+    color: #ce8483;
+    font-size: 12px;
+    font-style: italic;
+}
+
+table .col-oculta{
+    display: none;
+}
